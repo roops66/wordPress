@@ -1,0 +1,93 @@
+.demo-intro {
+	background: url(../images/1.jpg) top center;
+	background-size: cover;
+}
+.bg-wrapper {
+	background: rgba(0, 0, 0, 0.9);
+}
+.type {
+	min-height: 100vh;
+	text-align: center;
+	position: relative;
+	opacity: 0.7;
+}
+.type:hover {
+	opacity: 1;
+}
+.type a.preview-container {
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	width: 390px;
+	height: 558px;
+	padding: 12.5% 6%;
+}
+.type a.preview-container .box {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	-webkit-transition: all 4s ease-in;
+	-moz-transition: all 4s ease-in;
+	-ms-transition: all 4s ease-in;
+	-o-transition: all 4s ease-in;
+	transition: all 4s ease-in;
+}
+.type.right a.preview-container .box {
+	background: url(../images/style2.png);
+	background-size: cover;
+	background-position: 0% 0%; 
+}
+.type.left a.preview-container .box {
+	background: url(../images/style1.png);
+	background-size: cover;
+	background-position: 0% 0%; 
+}
+.type a.preview-container .box:hover {
+	background-position: 0% 100%;
+}
+.type.left a.preview-container {
+	background: url(../images/device-1.png) top left;
+	background-size: cover;
+}
+.type.right a.preview-container {
+	background: url(../images/device-2.png) top left;
+	background-size: cover;
+}
+.type a.preview-container img {
+	width: 100%;
+}
+.type .links {
+	display: block;
+}
+
+.type .content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translateY(-50%) translateX(-50%);
+	-moz-transform: translateY(-50%) translateX(-50%);
+	-ms-transform: translateY(-50%) translateX(-50%);
+	-o-transform: translateY(-50%) translateX(-50%);
+	transform: translateY(-50%) translateX(-50%);
+}
+
+.type .links {
+	padding-top: 45px;
+}
+.type .links a {
+	display: inline-block;
+	margin-right: 15px;
+	text-decoration: none;
+	padding: 8px 14px;
+	text-transform: uppercase;
+	color: #fff;
+	border: 2px solid #fff;
+	border-radius: 5px;
+}
+.type .links a:hover {
+	color: rgba(0, 0, 0, 0.95);
+	background: #fff;
+}
+.type .links a:last-of-type {
+	margin: 0;
+}

@@ -1,0 +1,27 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">motive_video_embed</custom-field>
+        <custom-field action="ignore">motive_audio_embed</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">team</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">partners</custom-type>
+        <custom-type translate="1">services</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">header_title_tax</taxonomy>
+        <taxonomy translate="1">description_tax</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="motive_options">
+            <key name="logo_text" />
+            <key name="email_contact" />
+            <key name="error_title" />
+            <key name="error_message" />
+            <key name="related_posts_title" />
+            <key name="copyright_message" />
+        </key>
+    </admin-texts>
+</wpml-config>

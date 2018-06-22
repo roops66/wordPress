@@ -1,0 +1,1560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motive v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-02 17:47+0300\n"
+"PO-Revision-Date: 2016-02-02 17:49+0300\n"
+"Last-Translator: admin <l.bivol@red-sky.pl>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ motive
+#: content-single.php:33 post_format/post-meta.php:10
+msgid "By "
+msgstr ""
+
+# @ motive
+#: content-single.php:39 comments.php:37 post_format/post-meta.php:16
+msgid "Comments"
+msgstr ""
+
+# @ motive
+#: content-single.php:41 post_format/post-meta.php:18
+msgid "Likes"
+msgstr ""
+
+# @ motive
+#: content-single.php:57
+msgid "Next page"
+msgstr ""
+
+# @ motive
+#: content-single.php:58
+msgid "Previous page"
+msgstr ""
+
+# @ motive
+#: content-single.php:69 theme_config/views/portfolio_single_view.php:68
+msgctxt "Single post Pagination"
+msgid " Prev post"
+msgstr ""
+
+# @ motive
+#: content-single.php:71 theme_config/views/portfolio_single_view.php:70
+msgctxt "Single post Pagination"
+msgid "Next post "
+msgstr ""
+
+# @ motive
+#: category.php:26
+msgid "Category Archive: "
+msgstr ""
+
+# @ motive
+#: category.php:33 tag.php:33 search.php:35 archive.php:41
+msgid "No matching posts found"
+msgstr ""
+
+# @ motive
+#: footer.php:33
+msgctxt "Footer Contact Form"
+msgid "Contact Form"
+msgstr ""
+
+# @ motive
+#: footer.php:34
+msgctxt "Footer Contact Form"
+msgid "Write Us"
+msgstr ""
+
+#: sidebar-footer.php:7
+msgctxt "Footer Contact Form Title"
+msgid "Drop us a line"
+msgstr ""
+
+# @ motive
+#: sidebar-footer.php:9
+msgctxt "Footer Contact Form Description"
+msgid "Write us a letter"
+msgstr ""
+
+# @ motive
+#: nav-main.php:17
+msgid "&#171; prev"
+msgstr ""
+
+# @ motive
+#: nav-main.php:18
+msgid "next &#187;"
+msgstr ""
+
+# @ motive
+#: template-contacts.php:82
+msgctxt "Contact Form Title on Contact Page"
+msgid "Write us a letter"
+msgstr ""
+
+# @ motive
+#: tag.php:26
+msgid "Tag Archive: "
+msgstr ""
+
+# @ motive
+#: search.php:27
+msgid "Search Results for "
+msgstr ""
+
+# @ motive
+#: archive.php:27 archive.php:29 archive.php:31 archive.php:33
+msgid "Archive"
+msgstr ""
+
+# @ motive
+#: 404.php:17
+msgctxt "404 page title"
+msgid "Oops"
+msgstr ""
+
+# @ motive
+#: 404.php:20
+msgid "404 Page"
+msgstr ""
+
+# @ motive
+#: 404.php:21
+msgid "I think we are lost, let's search again!"
+msgstr ""
+
+# @ motive
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+# @ motive
+#: comments.php:6
+msgid ""
+"This post is password protected. Enter the password to view any comments "
+msgstr ""
+
+# @ motive
+#: comments.php:19
+msgid "Name"
+msgstr ""
+
+# @ motive
+#: comments.php:20
+msgid "E-mail"
+msgstr ""
+
+# @ motive
+#: comments.php:21
+msgid "Website"
+msgstr ""
+
+# @ motive
+#: comments.php:26
+msgctxt "comment-form"
+msgid "Leave a reply"
+msgstr ""
+
+# @ motive
+#: comments.php:28
+msgid "Comment"
+msgstr ""
+
+# @ motive
+#: comments.php:30
+msgctxt "comment-form"
+msgid "Comment"
+msgstr ""
+
+# @ motive
+#: comments.php:37
+msgid "No Comments"
+msgstr ""
+
+# @ motive
+#: comments.php:37
+msgid "1 Comment"
+msgstr ""
+
+# @ motive
+#: functions.php:37
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Style 1"
+msgstr ""
+
+# @ motive
+#: functions.php:83
+msgid "Reply"
+msgstr ""
+
+# @ motive
+#: functions.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ motive
+#: functions.php:101
+msgid "(Edit)"
+msgstr ""
+
+# @ motive
+#: functions.php:139
+msgid "Blog Sidebar"
+msgstr ""
+
+# @ motive
+#: functions.php:141
+msgid "Blog Sidebar Area"
+msgstr ""
+
+# @ motive
+#: functions.php:150
+msgid "Footer"
+msgstr ""
+
+# @ motive
+#: functions.php:152
+msgid "Footer Area"
+msgstr ""
+
+# @ motive
+#: functions.php:253
+msgid "Share :"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:21
+msgid "Documentation"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:24
+msgid "Support"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:27
+msgid "Latest News"
+msgstr ""
+
+#: tesla_framework/views/admin.php:31
+msgid " Version "
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:32
+msgid "Framework "
+msgstr ""
+
+#: tesla_framework/views/admin.php:32
+msgid "Version "
+msgstr ""
+
+#: tesla_framework/views/admin.php:33
+msgid "Check Updates"
+msgstr ""
+
+#: tesla_framework/views/admin.php:35
+msgid "View Changelog"
+msgstr ""
+
+#: tesla_framework/views/admin.php:36
+msgid "Import Demo Options"
+msgstr ""
+
+#: tesla_framework/views/admin.php:38
+msgid "Manage Contact Forms"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/views/admin.php:57 tesla_framework/views/admin.php:85
+#: tesla_framework/views/admin.php:119 tesla_framework/views/admin.php:161
+#: tesla_framework/views/options/button.php:5
+#: tesla_framework/views/options/image_upload.php:13
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ tax-meta
+# @ mmb
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:141
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:438
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:477
+msgid "Remove"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/views/admin.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: tesla_framework/views/options/subscription.php:12
+msgid "Clear Subscription List"
+msgstr ""
+
+#: tesla_framework/views/options/subscription.php:14
+msgid "Export subscription list"
+msgstr ""
+
+#: tesla_framework/views/options/subscription.php:15
+msgid "Tab Delimited TXT"
+msgstr ""
+
+#: tesla_framework/views/options/subscription.php:16
+msgid "CSV"
+msgstr ""
+
+#: tesla_framework/views/options/subscription.php:18
+msgid "No subscribers yet..."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/views/options/image_upload.php:15
+msgid "Upload Image"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/views/options/image_upload.php:17
+msgid "Remove Image"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/views/options/image_upload.php:19
+msgid "Preview"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/views/options/text.php:45
+msgid "Text Logo Preview"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:65
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:100
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:142
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:164
+msgid "Site does not support widget"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:200
+msgid "Widget already exists"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:262
+msgid "Imported"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:265
+msgid "Imported to Inactive"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:272
+msgid "No Title"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:336
+msgctxt "heading"
+msgid "Setting Demo Widgets:"
+msgstr ""
+
+#: tesla_framework/extensions/widgetimport/widgetimport.php:341
+#, php-format
+msgid "You can manage your <a href=\"%s\">Widgets</a>."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:167
+#: tesla_framework/extensions/autoimport/autoimporter.php:175
+#: tesla_framework/extensions/autoimport/autoimporter.php:258
+#: tesla_framework/extensions/autoimport/autoimporter.php:262
+#: tesla_framework/extensions/autoimport/autoimporter.php:271
+msgid "Sorry, there has been an error."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:168
+msgid "The file does not exist, please try again."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:263
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:279
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:303
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:363
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:454
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:500
+#: tesla_framework/extensions/autoimport/autoimporter.php:641
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:526
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:607
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:772
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:779
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:842
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:855
+msgid "Invalid file type"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:899
+msgid "Remote server did not respond"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:905
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:912
+msgid "Remote file is incorrect size"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:917
+msgid "Zero size file downloaded"
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: tesla_framework/extensions/autoimport/autoimporter.php:923
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+# @ wordpress-importer
+#: tesla_framework/extensions/autoimport/parsers.php:43
+#: tesla_framework/extensions/autoimport/parsers.php:75
+#: tesla_framework/extensions/autoimport/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+# @ wordpress-importer
+#: tesla_framework/extensions/autoimport/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+# @ wordpress-importer
+#: tesla_framework/extensions/autoimport/parsers.php:87
+#: tesla_framework/extensions/autoimport/parsers.php:92
+#: tesla_framework/extensions/autoimport/parsers.php:283
+#: tesla_framework/extensions/autoimport/parsers.php:473
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+# @ tax-meta
+# @ mmb
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:450
+msgid "Add"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+# @ tax-meta
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+# @ tax-meta
+# @ apc
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:804
+msgid "Select a color"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1884
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1892
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:13
+msgctxt "dashboard-widgets"
+msgid "Instagram feed."
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:35
+msgctxt "dashboard-widgets"
+msgid "Instagram"
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:42
+#: tesla_framework/widgets/twitter.php:64
+msgctxt "dashboard-widgets"
+msgid "Title:"
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:45
+msgctxt "dashboard-widgets"
+msgid "Image nr:"
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:48
+msgctxt "dashboard-widgets"
+msgid "Username:"
+msgstr ""
+
+#: tesla_framework/widgets/instagram.php:51
+msgctxt "dashboard-widgets"
+msgid "Cache Hours:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:10
+msgctxt "dashboard-widgets"
+msgid "Twitter feed."
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:50
+msgctxt "dashboard-widgets"
+msgid "Twitter"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:70
+msgctxt "dashboard-widgets"
+msgid "Twitter user:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:76
+msgctxt "dashboard-widgets"
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid "Visit"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid "Twitter Apps"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:80
+msgctxt "dashboard-widgets"
+msgid ""
+"create your App; press 'Create Access token' at the bottom; insert the "
+"following from the 'Keys and Access Tokens' tab."
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:83
+msgctxt "dashboard-widgets"
+msgid "Consumer Key:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:89
+msgctxt "dashboard-widgets"
+msgid "Consumer Secret:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:95
+msgctxt "dashboard-widgets"
+msgid "Access Token:"
+msgstr ""
+
+#: tesla_framework/widgets/twitter.php:101
+msgctxt "dashboard-widgets"
+msgid "Access Token Secret:"
+msgstr ""
+
+#: tesla_framework/helpers/instagram.php:101
+msgid "No username inserted in instagram widget"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_contact_form.php:74
+msgid "From "
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_contact_form.php:74
+msgid " Contact Form "
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_subscription.php:59
+msgid "Subscribed"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_subscription.php:61
+#: tesla_framework/core/tesla_admin.php:303
+msgid "Error"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:63
+msgid "Email already exists"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_subscription.php:68
+msgid "MailChimp Error"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_subscription.php:72
+#: theme_config/subscription.php:24
+msgid "No data received"
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/tt_subscription.php:100
+msgid "No API key for mailchimp"
+msgstr ""
+
+# @ default
+#: tesla_framework/core/tt_subscription.php:114
+msgid "Not a valid mailchimp api key."
+msgstr ""
+
+# @ TeslaFramework
+#: tesla_framework/core/teslaframework.php:37
+msgid "Simple Meta Box fields"
+msgstr ""
+
+# @ tesla
+#: tesla_framework/core/tesla_slider.php:1241
+#: tesla_framework/core/tesla_slider.php:1254
+msgctxt "portfolio category order"
+msgid "Order"
+msgstr ""
+
+# @ tesla
+#: tesla_framework/core/tesla_slider.php:1243
+#: tesla_framework/core/tesla_slider.php:1257
+msgctxt "portfolio category order"
+msgid "Set the order in which the categories should be displayed."
+msgstr ""
+
+# @ tesla
+#: tesla_framework/core/tesla_slider.php:1274
+msgctxt "portfolio category order column"
+msgid "Order"
+msgstr ""
+
+# @ tgmpa
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tt-dashboard-metaboxes
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ tgmpa
+# @ motive
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+# @ tgmpa
+# @ default
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ motive
+#: widgets/widget_social_block.php:10
+msgid "Displays social icons. Just for Footer"
+msgstr ""
+
+# @ motive
+#: widgets/widget_twitter.php:9
+msgid "A list of latest tweets."
+msgstr ""
+
+# @ motive
+#: widgets/widget_twitter.php:57
+msgctxt "dashboard"
+msgid "Title:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_twitter.php:58
+msgctxt "dashboard"
+msgid "Twitter user:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_twitter.php:60
+msgctxt "dashboard"
+msgid "Number of tweets to show:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_twitter.php:64
+msgctxt "dashboard"
+msgid "Don't forget to configure the twitter in the Framework."
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:10
+msgid "Displays Flickr photos"
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:35
+msgid "Follow me"
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:60 widgets/widget_social.php:47
+#: widgets/widget_contact.php:95 widgets/widget_popular.php:105
+#: theme_config/views/portfolio_view_gallery.php:45
+msgid "Title:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:61
+msgid "Flickr id:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:62
+msgid "Follow me:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_flickr.php:64
+msgid "Number of photos to show:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_social.php:10
+msgid "Displays social icons"
+msgstr ""
+
+# @ motive
+#: widgets/widget_social.php:49 widgets/widget_contact.php:98
+msgid "Description:"
+msgstr ""
+
+# @ motive
+#: widgets/widget_contact.php:10
+msgid "Displays Contact Info. For Footer Only"
+msgstr ""
+
+# @ motive
+#: widgets/widget_contact.php:40
+msgctxt "Widget Contact Info"
+msgid "Phone/Fax"
+msgstr ""
+
+# @ motive
+#: widgets/widget_contact.php:53
+msgid "Mail"
+msgstr ""
+
+# @ motive
+#: widgets/widget_contact.php:64
+msgctxt "Widget Contact Info"
+msgid "Location"
+msgstr ""
+
+# @ motive
+#: widgets/widget_popular.php:10
+msgid "Show your popular posts."
+msgstr ""
+
+#: widgets/widget_popular.php:41
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/widget_popular.php:42
+msgid "Latest Posts"
+msgstr ""
+
+# @ motive
+#: widgets/widget_popular.php:107
+msgid "Number of Posts:"
+msgstr ""
+
+# @ motive
+#: theme_config/slider-options.php:107
+msgctxt "Portfolio Shortcode Button"
+msgid "View our portfolio"
+msgstr ""
+
+#: theme_config/subscription.php:6
+msgid "Please insert email"
+msgstr ""
+
+#: theme_config/subscription.php:8
+msgid "Invalid Email"
+msgstr ""
+
+#: theme_config/subscription.php:23
+msgid "Date"
+msgstr ""
+
+#: theme_config/subscription.php:25
+msgid "Error writing to disk"
+msgstr ""
+
+#: theme_config/subscription.php:26
+msgid "Successfully Subscribed"
+msgstr ""
+
+#: theme_config/subscription.php:27
+msgid "Couldn't write to file"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:6 theme_config/meta-boxes.php:106
+msgctxt "meta boxes"
+msgid "Page Settings"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:13 theme_config/meta-boxes.php:65
+msgctxt "meta boxes"
+msgid "Sidebar Position"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:16 theme_config/meta-boxes.php:69
+msgctxt "meta boxes"
+msgid "No Sidebar/Full Width"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:17 theme_config/meta-boxes.php:70
+msgctxt "meta boxes"
+msgid "Right"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:18 theme_config/meta-boxes.php:71
+msgctxt "meta boxes"
+msgid "Left"
+msgstr ""
+
+#: theme_config/meta-boxes.php:23 theme_config/meta-boxes.php:113
+msgctxt "meta boxes"
+msgid "Page Nav Menu Layout"
+msgstr ""
+
+#: theme_config/meta-boxes.php:26 theme_config/meta-boxes.php:116
+msgctxt "meta boxes"
+msgid "Fixed"
+msgstr ""
+
+#: theme_config/meta-boxes.php:27 theme_config/meta-boxes.php:117
+msgctxt "meta boxes"
+msgid "Motive Style"
+msgstr ""
+
+#: theme_config/meta-boxes.php:32 theme_config/meta-boxes.php:122
+msgctxt "meta boxes"
+msgid "Page Nav Menu Type"
+msgstr ""
+
+#: theme_config/meta-boxes.php:35 theme_config/meta-boxes.php:125
+msgctxt "meta boxes"
+msgid "Initial with black background"
+msgstr ""
+
+#: theme_config/meta-boxes.php:36 theme_config/meta-boxes.php:126
+msgctxt "meta boxes"
+msgid "Initial Transparent"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:41
+msgctxt "meta boxes"
+msgid "Page Header Image"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:43
+msgctxt "meta boxes"
+msgid "Insert your image URL for Page Header"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:46
+msgctxt "meta boxes"
+msgid "Page Header Icon"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:49
+msgctxt "meta boxes"
+msgid "Insert your icon slug for Page Header"
+msgstr ""
+
+#: theme_config/meta-boxes.php:50
+msgctxt "meta boxes"
+msgid ""
+"Choose an icon from <a href=\"https://icomoon.io/#preview-free\" target="
+"\"_blank\">here</a>"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:58
+msgctxt "meta boxes"
+msgid "Post Settings"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:68
+msgctxt "meta boxes"
+msgid "Same as Blog Page"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:79
+msgctxt "meta boxes"
+msgid "Featured Video Embed"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:85 theme_config/meta-boxes.php:99
+msgctxt "meta boxes"
+msgid "Insert your embed code"
+msgstr ""
+
+# @ motive
+#: theme_config/meta-boxes.php:93
+msgctxt "meta boxes"
+msgid "Featured Audio Embed"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view_gallery_2.php:27
+msgid "screen image"
+msgstr ""
+
+# @ motive
+#: theme_config/views/team_view.php:26
+msgid "member image"
+msgstr ""
+
+# @ motive
+#: theme_config/views/team_view.php:58
+msgid "become-member"
+msgstr ""
+
+# @ motive
+#: theme_config/views/team_view.php:59
+msgctxt "Team Members Shortcode"
+msgid "Become our member"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view_gallery.php:39
+msgid "slider image"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view_gallery.php:46
+msgid "Date:"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view_gallery.php:47
+msgctxt "Shortcode Gallery"
+msgid "Description"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view_gallery.php:71
+msgid "slider control image"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:43
+msgid "Date: "
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:44
+msgid "Client: "
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:45
+msgid "Posted by: "
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:47
+msgid "Likes: "
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:49
+msgid "Category: "
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:75
+msgctxt "Portfolio Single View"
+msgid "Related Projects"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_single_view.php:80
+msgid "portfolio image"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view.php:53
+msgid "All"
+msgstr ""
+
+# @ motive
+#: theme_config/views/portfolio_view.php:109
+msgid "portfolio post"
+msgstr ""
+
+# @ motive
+#: theme_config/views/contact_form/submit.php:5
+msgid "Sending Message"
+msgstr ""
+
+# @ motive
+#: theme_config/views/contact_form/submit.php:6
+msgid "Message Successfully Sent"
+msgstr ""
+
+# @ motive
+#: post_format/post-meta.php:26
+msgid "View"
+msgstr ""

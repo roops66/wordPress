@@ -1,0 +1,132 @@
+Version 1.2.12 - Updated: 17.01.2018
+================================================
+Added	:	General Tweaks
+
+Version 1.2.11 - Updated: 17.11.2017
+================================================
+Added	:	General Tweaks
+
+Version 1.2.10 - Updated: 26.10.2017
+================================================
+Added	:	General Tweaks
+Version 1.2.9 - Updated: 12.10.2017
+================================================
+Added	:	General Tweaks
+Version 1.2.8 - Update: 30.06.2016
+================================================
+Fix	:	Small code fix in portfolio view
+
+Version 1.2.7 - Update: 30.06.2016
+================================================
+Improve	:	Framework Update (Google Map API)
+
+Version 1.2.6 - Update: 24.04.2016
+================================================
+Fixed	:	Custom JS hook
+
+Version 1.2.5 - Update: 04.02.2016
+================================================
+Improved	:	Minor improve (footer mail link)
+
+Version 1.2.4 - Update: 02.02.2016
+================================================
+Updated	:	Internationalization file
+Improved	:	Team view style
+Fixed	:	Minor bugs
+
+Version 1.2.3 - Update: 28.01.2016
+================================================
+Updated	:	Added multi step import
+Updated	:	Added widgets import
+Updated	:	Ready for test room ( menu setup )
+
+Version 1.2.2 - Update: 12.01.2016
+================================================
+Updated	:	Ready for test room
+
+Version 1.2.1 - Update: 11.01.2016
+================================================
+Updated	:	Revolution slider plugin
+Updated	:	Tesla Framework security
+Fixed	:	Minor bugs
+
+Version 1.2 - Update: 20.11.2015
+================================================
+Update	:	Tesla Contact Form Builder
+
+Version 1.1.8 - Update: 17.11.2015
+================================================
+Update	:	Testimonial ("speed" atribute)
+Improved	:	Tesla framework security
+Update	:	Revolution Slider plugin (5.1.3)
+
+Version 1.1.7 - Update: 13.11.2015
+================================================
+Update	:	Instagram widget
+
+Version 1.1.6 - Update: 15.10.2015
+================================================
+Update	:	Contact Form
+Added	:	Instagram widget
+
+Version 1.1.5 - Update: 23.09.2015
+================================================
+Update	:	Contact Form
+
+Version 1.1.4 - Update: 07.09.2015
+================================================
+Update	:	RevSlider Version
+
+Version 1.1.3 - Update: 25.08.2015
+================================================
+Fixed	:	Minor bugs with Team Custom Post
+
+Version 1.1.2 - Update: 24.08.2015
+================================================
+Update	:	Revolution Slider
+
+Version 1.1.1 - Update: 07.08.2015
+================================================
+Improve	:	Widgets title
+
+Version 1.1.0 - Update: 31.07.2015
+================================================
+Improve	:	Testimonial view 
+
+Version 1.0.8 - Update: 23.07.2015
+================================================
+Fixed	:	Minor Bugs
+
+Version 1.0.7 - Update: 21.07.2015
+================================================
+Improve	:	Footer support all standart widgets
+Improve	:	Code optimization
+
+Version 1.0.6 - Update: 30.06.2015
+================================================
+Improve	:	Added new type of Page Header Nav Menu
+
+Version 1.0.5 - Update: 1.06.2015
+================================================
+Improve	:	Portfolio Swipebox
+
+Version 1.0.4 - Update: 15.05.2015
+================================================
+Improve	:	Portfolio permalinks
+Improve	:	Share permalinks
+
+Version 1.0.3 - Update: 27.04.2015
+================================================
+Fixed	:	Portfolio view full image
+
+Version 1.0.2 - Update: 23.04.2015
+================================================
+Updated	:	Security Improve
+
+Version 1.0.1 - 14.04.2015
+================================================
+Fixed	:	Minor bug-fixes
+
+Version 1.0.0 - Initial Release: 07.04.2015
+================================================
+-
